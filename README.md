@@ -1,2 +1,2 @@
 # uzdenim
-uzdenim.com
+#uzdenim.com
